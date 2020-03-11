@@ -8,6 +8,6 @@ public class ExampleEndpoint {
 
   @RequestMapping("/starter/hello")
   public String exampl() {
-    return "Hello World Demo";
+    return "Hello from Cloud Paks !!!";
   }
 }
